@@ -1,8 +1,8 @@
-##  Hi, I’m Prerna ✨
-An aspiring developer and a beginner in the world of programming.
-I enjoy learning new things and improving my coding skills every day.
-Currently working with Python and exploring C++.
+##  Hi, I’m Prerna ✨👩‍💻
 
+An aspiring developer 💻 and a beginner in the world of programming 🌍
+I enjoy learning new things 📚 and improving my coding skills every day 🚀
+Currently working with Python 🐍 and exploring C++ ⚡
 <!--
 **prerna0710/prerna0710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
