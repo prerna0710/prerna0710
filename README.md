@@ -4,7 +4,7 @@ An aspiring developer 💻 and a beginner in the world of programming 🌍
 
 I enjoy learning new things 📚 and improving my coding skills every day 🚀
 
-Currently working with Python 🐍 and exploring C++ ⚡
+Currently working with Python 🐍 
 <!--
 **prerna0710/prerna0710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
